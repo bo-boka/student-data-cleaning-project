@@ -1,0 +1,784 @@
+student_id,grade_level,race_ethnicity,gender,Free/Reduced Price Lunch
+1254353,7,White,Male,No
+1254135,5,White,Male,nan
+1254423,8,Black/African American,Male,Reduced Price
+1254598,8,White,Male,Free
+1254562,6,Black/African American,Male,No
+1254213,8,White,Male,No
+1254122,5,Black/African American,Female,Reduced Price
+1254275,7,White,Male,Reduced Price
+1254600,6,Black/African American,Female,No
+1254828,5,White,Female,No
+1254296,6,White,Male,Reduced Price
+1254322,6,Black/African American,Male,No
+1254148,6,White,Female,Free
+1254683,8,Black/African American,Male,No
+1254652,6,Black/African American,Female,Free
+1254595,8,White,Male,No
+1254217,8,White,Female,No
+1254128,8,White,Male,nan
+1254185,6,White,Female,No
+1254588,7,Two or More Races,Male,nan
+1254268,7,White,Female,Reduced Price
+1254802,6,White,Male,Reduced Price
+1254262,8,White,Male,No
+1254790,6,Black/African American,Female,Reduced Price
+1254129,5,Black/African American,Female,Free
+1254529,7,Black/African American,Female,nan
+1254591,8,White,Female,Reduced Price
+1254471,6,White,Female,No
+1254464,5,White,Female,No
+1254852,5,White,Male,No
+1254261,8,White,Male,No
+1254753,5,White,Male,No
+1254303,8,White,Male,No
+1254825,7,nan,Male,nan
+1254239,5,Black/African American,Male,No
+1254771,5,nan,Male,No
+1254168,5,White,Male,Free
+1254629,5,Asian,Male,Free
+1254720,7,White,Female,No
+1254514,5,White,Male,Free
+1254767,5,White,Male,nan
+1254253,6,White,Female,No
+1254196,5,White,Male,No
+1254321,7,White,Male,Free
+1254816,7,White,Male,Free
+1254670,8,Black/African American,Female,No
+1254796,7,White,Male,Reduced Price
+1254144,6,Black/African American,Male,Reduced Price
+1254180,8,nan,Male,nan
+1254309,6,White,Female,No
+1254336,6,White,Female,No
+1254736,6,Black/African American,Male,No
+1254157,8,Two or More Races,Female,Reduced Price
+1254169,7,Two or More Races,Male,No
+1254154,6,White,Female,Reduced Price
+1254112,5,Black/African American,Male,nan
+1254308,8,Black/African American,Male,nan
+1254102,8,White,Female,No
+1254782,5,Black/African American,Female,No
+1254819,8,White,Male,nan
+1254292,8,Native Havaiian/Other Pacific Islander,Female,nan
+1254104,8,nan,Male,No
+1254304,6,White,Female,No
+1254516,6,White,Female,nan
+1254098,8,White,Female,No
+1254079,5,nan,Female,No
+1254799,7,Native Havaiian/Other Pacific Islander,Male,nan
+1254786,5,White,Male,Free
+1254425,6,White,Male,Reduced Price
+1254108,8,White,Male,Reduced Price
+1254577,6,Two or More Races,Male,nan
+1254254,8,Black/African American,Male,No
+1254489,6,Black/African American,Male,nan
+1254492,8,Black/African American,Female,No
+1254804,5,White,Male,Reduced Price
+1254227,5,White,Female,Free
+1254646,6,American Indian/Alaska Native,Male,No
+1254508,6,Black/African American,Male,nan
+1254158,7,Hispanic/Latino,Male,Free
+1254332,5,nan,Female,No
+1254439,7,White,Male,Free
+1254258,6,White,Female,nan
+1254581,8,Black/African American,Male,Free
+1254647,6,White,Male,No
+1254679,8,White,Male,No
+1254140,7,Black/African American,Male,Reduced Price
+1254575,6,Black/African American,Female,Free
+1254297,7,Black/African American,Female,No
+1254834,5,White,Male,No
+1254076,8,White,Female,Reduced Price
+1254784,6,White,Male,Free
+1254212,8,White,Male,nan
+1254155,6,White,Female,Free
+1254544,6,Black/African American,Female,Free
+1254578,6,White,Male,Free
+1254459,5,White,Male,Free
+1254501,8,Black/African American,Male,Reduced Price
+1254374,5,White,Female,No
+1254503,5,nan,Female,Reduced Price
+1254397,7,Black/African American,Male,No
+1254166,6,Black/African American,Male,nan
+1254532,6,Black/African American,Female,Free
+1254473,7,Black/African American,Male,No
+1254691,8,Two or More Races,Female,No
+1254845,6,White,Male,Reduced Price
+1254447,8,White,Female,Free
+1254833,8,White,Male,Free
+1254839,6,Two or More Races,Male,nan
+1254696,6,White,Male,No
+1254567,7,White,Male,Reduced Price
+1254415,7,Black/African American,Female,Free
+1254337,7,White,Male,Free
+1254092,5,Black/African American,Female,No
+1254787,7,White,Male,No
+1254170,8,Black/African American,Male,Reduced Price
+1254177,8,Black/African American,Male,Free
+1254252,7,White,Male,No
+1254609,5,Native Havaiian/Other Pacific Islander,Male,Free
+1254528,5,Black/African American,Female,Reduced Price
+1254428,5,White,Female,No
+1254340,6,Black/African American,Male,No
+1254236,6,Black/African American,Male,Reduced Price
+1254333,7,White,Male,No
+1254614,5,White,Female,nan
+1254475,8,nan,Female,Free
+1254385,6,White,Male,No
+1254668,5,White,Male,No
+1254589,8,White,Male,No
+1254381,6,Asian,Male,No
+1254743,7,Black/African American,Male,nan
+1254506,8,White,Male,Reduced Price
+1254259,8,Black/African American,Female,Free
+1254096,6,White,Female,No
+1254279,7,White,Male,Free
+1254527,8,White,Female,No
+1254635,6,White,Male,Free
+1254436,7,White,Female,nan
+1254240,8,Black/African American,Male,No
+1254810,7,nan,Male,No
+1254777,5,White,Female,No
+1254172,8,White,Male,No
+1254530,5,Black/African American,Female,No
+1254097,8,Two or More Races,Female,No
+1254260,6,Black/African American,Male,nan
+1254803,7,Hispanic/Latino,Female,No
+1254798,5,White,Male,Reduced Price
+1254607,8,White,Female,No
+1254574,5,nan,Male,Free
+1254355,6,White,Female,No
+1254617,7,White,Female,nan
+1254666,5,White,Female,nan
+1254408,6,White,Female,Reduced Price
+1254419,6,White,Male,No
+1254636,7,Black/African American,Female,No
+1254847,7,Two or More Races,Male,No
+1254386,8,White,Female,No
+1254338,7,Native Havaiian/Other Pacific Islander,Male,Free
+1254330,8,White,Female,No
+1254441,8,White,Female,nan
+1254400,7,White,Male,nan
+1254692,7,White,Male,No
+1254401,6,White,Female,Free
+1254838,7,Black/African American,Female,Free
+1254487,8,White,Male,Free
+1254640,8,Black/African American,Female,Reduced Price
+1254583,8,Hispanic/Latino,Female,nan
+1254524,6,White,Male,Free
+1254198,7,Black/African American,Female,No
+1254418,7,White,Female,No
+1254651,7,White,Female,Free
+1254124,8,White,Female,Free
+1254193,8,Hispanic/Latino,Female,No
+1254267,7,Black/African American,Female,Reduced Price
+1254714,8,Black/African American,Male,No
+1254812,6,White,Male,No
+1254133,8,White,Male,Free
+1254656,6,Black/African American,Male,Free
+1254378,8,nan,Female,No
+1254512,6,White,Female,Free
+1254458,8,Hispanic/Latino,Female,No
+1254360,5,White,Female,No
+1254642,8,White,Female,Reduced Price
+1254433,6,White,Male,No
+1254622,6,White,Male,Reduced Price
+1254821,6,Black/African American,Male,No
+1254288,5,American Indian/Alaska Native,Female,Free
+1254568,5,White,Male,Reduced Price
+1254341,6,Asian,Female,No
+1254559,7,White,Male,No
+1254818,7,Black/African American,Female,nan
+1254817,6,White,Male,No
+1254805,5,White,Female,No
+1254328,7,nan,Male,Free
+1254497,7,White,Male,No
+1254474,8,Black/African American,Male,No
+1254195,5,Black/African American,Female,No
+1254164,5,Asian,Male,No
+1254349,5,Black/African American,Female,No
+1254327,7,nan,Female,Reduced Price
+1254717,7,Black/African American,Male,No
+1254628,8,White,Male,nan
+1254773,7,White,Male,No
+1254443,5,Two or More Races,Female,Free
+1254456,6,White,Female,No
+1254775,8,Black/African American,Male,No
+1254697,5,Black/African American,Female,nan
+1254315,5,Black/African American,Male,No
+1254726,6,White,Female,nan
+1254498,7,White,Male,Free
+1254371,6,White,Male,No
+1254395,6,White,Female,No
+1254602,6,White,Female,Free
+1254149,6,White,Male,No
+1254264,8,Hispanic/Latino,Male,No
+1254760,8,White,Female,nan
+1254285,5,White,Female,No
+1254390,7,White,Female,No
+1254294,7,Asian,Female,No
+1254162,8,White,Female,No
+1254243,8,Black/African American,Female,No
+1254113,5,White,Female,No
+1254375,7,Two or More Races,Female,Free
+1254075,8,Black/African American,Female,No
+1254201,7,Two or More Races,Female,nan
+1254815,7,nan,Male,No
+1254429,6,Native Havaiian/Other Pacific Islander,Female,Free
+1254434,6,White,Male,No
+1254707,6,Black/African American,Female,Reduced Price
+1254700,6,White,Female,nan
+1254373,5,White,Male,Reduced Price
+1254167,8,White,Male,nan
+1254536,8,White,Female,Reduced Price
+1254761,6,White,Female,Free
+1254469,8,White,Female,No
+1254088,5,White,Male,No
+1254183,8,Black/African American,Female,Reduced Price
+1254781,5,White,Female,Free
+1254674,6,Black/African American,Female,Free
+1254383,7,White,Female,No
+1254750,7,Black/African American,Male,No
+1254420,5,Black/African American,Female,Free
+1254424,5,White,Male,Reduced Price
+1254564,8,White,Male,No
+1254438,6,Black/African American,Male,No
+1254460,8,White,Male,Free
+1254533,7,White,Male,nan
+1254105,8,Black/African American,Male,Free
+1254526,8,Black/African American,Female,No
+1254178,7,Black/African American,Female,No
+1254654,8,Black/African American,Male,nan
+1254795,8,White,Male,Free
+1254331,7,White,Male,No
+1254521,6,Asian,Male,No
+1254746,8,White,Male,nan
+1254593,6,Black/African American,Female,Reduced Price
+1254228,7,Black/African American,Female,No
+1254248,7,White,Female,No
+1254202,6,Two or More Races,Male,Free
+1254671,7,Black/African American,Female,No
+1254557,8,Two or More Races,Female,Free
+1254363,7,White,Female,nan
+1254139,7,White,Male,No
+1254364,7,nan,Male,Free
+1254594,6,White,Male,Free
+1254658,5,Black/African American,Male,No
+1254794,8,Black/African American,Male,Reduced Price
+1254721,8,White,Female,Reduced Price
+1254237,8,Two or More Races,Male,Free
+1254442,6,Black/African American,Female,nan
+1254554,6,American Indian/Alaska Native,Female,No
+1254476,6,White,Male,No
+1254417,5,White,Female,No
+1254190,5,Black/African American,Female,No
+1254780,6,White,Male,No
+1254472,7,White,Male,No
+1254399,8,Asian,Female,Free
+1254509,5,White,Male,Free
+1254171,5,Black/African American,Male,No
+1254272,7,White,Female,Free
+1254797,5,White,Female,Reduced Price
+1254350,7,nan,Female,No
+1254312,8,White,Male,Free
+1254824,6,Two or More Races,Male,nan
+1254745,7,nan,Female,No
+1254287,5,White,Male,No
+1254662,5,Black/African American,Female,No
+1254758,5,White,Male,No
+1254772,5,White,Female,No
+1254398,6,Black/African American,Female,No
+1254570,7,Black/African American,Female,No
+1254431,6,White,Female,Free
+1254592,6,White,Male,No
+1254197,8,White,Male,Free
+1254123,8,Two or More Races,Male,nan
+1254722,7,Two or More Races,Male,Free
+1254686,8,White,Female,No
+1254807,8,White,Female,No
+1254470,5,White,Female,No
+1254546,6,White,Female,No
+1254221,8,Black/African American,Female,Reduced Price
+1254759,8,Black/African American,Male,No
+1254586,8,Asian,Female,No
+1254339,7,Black/African American,Male,No
+1254755,7,nan,Male,No
+1254085,5,Black/African American,Male,No
+1254541,8,White,Male,nan
+1254813,7,White,Male,Reduced Price
+1254712,8,Hispanic/Latino,Female,No
+1254774,8,Black/African American,Female,No
+1254311,6,Black/African American,Female,Free
+1254849,8,Black/African American,Male,No
+1254080,7,White,Female,No
+1254618,7,White,Female,Reduced Price
+1254405,5,Black/African American,Male,No
+1254130,6,White,Female,Reduced Price
+1254718,6,Two or More Races,Female,Free
+1254445,7,Two or More Races,Female,Free
+1254238,6,White,Female,No
+1254576,7,Asian,Male,nan
+1254263,6,White,Male,No
+1254478,8,Black/African American,Female,nan
+1254406,5,White,Male,Free
+1254855,7,Black/African American,Female,No
+1254851,8,Black/African American,Female,No
+1254840,5,White,Male,nan
+1254426,7,White,Male,nan
+1254627,5,White,Female,nan
+1254494,7,White,Male,Free
+1254756,6,nan,Female,No
+1254299,5,nan,Female,Free
+1254525,5,White,Female,Free
+1254639,5,Black/African American,Male,No
+1254558,6,Black/African American,Male,Reduced Price
+1254664,7,White,Female,nan
+1254520,6,White,Male,No
+1254090,8,Black/African American,Female,No
+1254597,5,White,Male,nan
+1254770,5,Hispanic/Latino,Female,No
+1254462,7,White,Male,No
+1254343,5,Black/African American,Male,nan
+1254793,8,White,Male,Free
+1254545,8,nan,Female,No
+1254553,7,Black/African American,Male,Free
+1254844,7,Black/African American,Female,No
+1254608,8,Black/African American,Male,Reduced Price
+1254244,6,White,Male,No
+1254846,5,Black/African American,Female,nan
+1254513,5,Black/African American,Female,No
+1254705,7,Black/African American,Female,No
+1254688,7,White,Female,Free
+1254465,8,Black/African American,Female,No
+1254715,8,White,Female,Reduced Price
+1254324,6,Hispanic/Latino,Female,nan
+1254649,8,White,Male,No
+1254599,6,White,Female,No
+1254231,7,White,Female,Free
+1254286,6,White,Female,No
+1254685,7,White,Female,No
+1254673,8,White,Female,No
+1254314,5,White,Female,No
+1254313,8,Black/African American,Female,No
+1254150,7,Asian,Female,Free
+1254074,6,White,Male,No
+1254147,5,White,Female,nan
+1254145,8,White,Female,nan
+1254701,6,White,Male,Reduced Price
+1254643,7,nan,Female,No
+1254255,8,White,Male,No
+1254256,5,White,Female,nan
+1254690,7,White,Male,Reduced Price
+1254078,8,Black/African American,Male,No
+1254250,5,Black/African American,Male,No
+1254427,8,White,Female,Reduced Price
+1254215,7,White,Male,No
+1254500,8,White,Female,Reduced Price
+1254791,7,Black/African American,Female,No
+1254389,6,White,Female,Reduced Price
+1254362,8,White,Female,No
+1254342,7,White,Male,No
+1254488,5,nan,Male,No
+1254716,8,Black/African American,Male,No
+1254280,6,White,Female,Free
+1254836,6,White,Male,nan
+1254082,7,White,Male,Free
+1254742,7,White,Male,No
+1254747,6,American Indian/Alaska Native,Male,No
+1254234,7,Black/African American,Female,Free
+1254211,5,Hispanic/Latino,Female,Reduced Price
+1254477,8,White,Female,No
+1254089,5,nan,Male,nan
+1254235,7,Asian,Female,Free
+1254276,7,White,Female,nan
+1254659,8,White,Male,No
+1254120,6,White,Female,Reduced Price
+1254270,7,Asian,Female,Reduced Price
+1254356,5,White,Female,Reduced Price
+1254402,5,White,Female,No
+1254637,5,White,Male,Free
+1254485,7,White,Male,No
+1254837,5,White,Male,nan
+1254778,8,nan,Female,Free
+1254301,8,White,Female,No
+1254407,8,Black/African American,Female,Free
+1254551,7,White,Female,nan
+1254351,8,White,Male,Reduced Price
+1254412,5,Asian,Male,No
+1254298,7,Black/African American,Male,No
+1254207,8,Hispanic/Latino,Female,Free
+1254537,6,nan,Male,No
+1254291,5,nan,Female,Reduced Price
+1254359,6,White,Female,Free
+1254572,8,White,Male,nan
+1254605,8,White,Female,nan
+1254519,8,White,Female,Reduced Price
+1254569,7,Black/African American,Female,No
+1254376,8,Black/African American,Male,Reduced Price
+1254510,7,White,Female,Free
+1254502,6,White,Male,No
+1254345,5,Black/African American,Male,No
+1254823,7,White,Male,No
+1254409,7,American Indian/Alaska Native,Female,No
+1254165,6,White,Female,Reduced Price
+1254159,8,Hispanic/Latino,Male,Free
+1254396,5,Asian,Male,Reduced Price
+1254483,8,White,Female,Free
+1254117,6,Black/African American,Female,No
+1254555,7,nan,Male,Reduced Price
+1254370,8,White,Male,Reduced Price
+1254644,6,White,Female,No
+1254413,7,Black/African American,Male,No
+1254151,5,White,Male,No
+1254251,5,White,Male,Reduced Price
+1254665,7,Two or More Races,Female,Reduced Price
+1254452,5,Black/African American,Female,No
+1254095,6,Black/African American,Female,No
+1254306,7,Black/African American,Female,No
+1254222,8,White,Female,nan
+1254317,7,White,Female,No
+1254587,6,Black/African American,Female,No
+1254650,5,Black/African American,Male,Free
+1254118,6,White,Female,No
+1254619,6,Black/African American,Female,No
+1254754,5,Black/African American,Male,Reduced Price
+1254539,8,White,Male,Free
+1254103,7,White,Female,nan
+1254357,8,Black/African American,Male,Reduced Price
+1254584,5,Hispanic/Latino,Male,Free
+1254257,7,Black/African American,Male,No
+1254695,7,Black/African American,Female,Free
+1254535,5,Two or More Races,Female,Reduced Price
+1254344,5,Black/African American,Male,No
+1254138,8,Native Havaiian/Other Pacific Islander,Female,No
+1254611,7,White,Female,No
+1254141,5,Black/African American,Female,Free
+1254667,5,Black/African American,Female,No
+1254623,6,Black/African American,Female,No
+1254616,7,nan,Male,Free
+1254704,5,White,Female,No
+1254808,6,White,Male,Reduced Price
+1254086,7,White,Male,Free
+1254404,5,White,Male,nan
+1254504,8,White,Female,No
+1254284,8,Two or More Races,Male,Free
+1254450,8,Black/African American,Female,No
+1254346,6,White,Female,Free
+1254233,5,White,Male,nan
+1254210,7,Two or More Races,Female,No
+1254305,7,nan,Female,No
+1254806,5,Black/African American,Male,Free
+1254822,6,White,Female,No
+1254703,8,White,Male,No
+1254266,7,White,Female,Free
+1254110,7,White,Male,Free
+1254219,5,White,Female,Reduced Price
+1254146,7,American Indian/Alaska Native,Male,No
+1254728,7,White,Male,Free
+1254372,6,White,Male,Free
+1254724,8,Asian,Female,Free
+1254214,5,nan,Female,Reduced Price
+1254136,8,White,Female,nan
+1254657,7,Black/African American,Female,No
+1254174,5,White,Female,Free
+1254384,7,Black/African American,Female,Free
+1254245,7,nan,Male,Free
+1254606,7,White,Male,Free
+1254416,7,Black/African American,Female,Free
+1254723,7,White,Female,Free
+1254310,7,Native Havaiian/Other Pacific Islander,Male,Free
+1254176,7,White,Male,No
+1254740,7,White,Male,Free
+1254561,7,Hispanic/Latino,Female,No
+1254274,8,White,Female,No
+1254809,7,White,Male,No
+1254672,5,White,Male,nan
+1254232,6,Native Havaiian/Other Pacific Islander,Male,No
+1254660,8,White,Female,No
+1254224,5,White,Male,No
+1254835,5,Two or More Races,Female,Free
+1254205,6,Two or More Races,Male,nan
+1254109,6,Black/African American,Male,Reduced Price
+1254083,5,Black/African American,Male,No
+1254393,5,Black/African American,Female,Reduced Price
+1254766,7,White,Female,No
+1254499,5,Black/African American,Male,No
+1254099,7,White,Male,nan
+1254645,5,Black/African American,Female,No
+1254087,8,White,Male,Free
+1254175,7,White,Male,Free
+1254115,7,Black/African American,Female,Free
+1254580,8,Black/African American,Female,Free
+1254295,6,Black/African American,Female,nan
+1254382,7,White,Female,No
+1254226,8,White,Female,No
+1254710,8,White,Male,nan
+1254163,6,Black/African American,Female,nan
+1254573,5,Two or More Races,Male,Free
+1254114,6,Asian,Male,No
+1254789,5,White,Female,No
+1254387,8,nan,Female,Free
+1254547,8,Black/African American,Male,Free
+1254380,7,White,Male,No
+1254209,6,Two or More Races,Female,Reduced Price
+1254538,7,White,Male,Reduced Price
+1254571,8,White,Male,Free
+1254655,8,Native Havaiian/Other Pacific Islander,Male,nan
+1254289,5,White,Male,Free
+1254242,8,Black/African American,Female,No
+1254762,7,nan,Male,No
+1254181,6,Hispanic/Latino,Male,No
+1254737,7,Black/African American,Male,Free
+1254842,7,White,Male,Free
+1254156,6,White,Male,Free
+1254293,6,White,Male,nan
+1254495,8,Black/African American,Female,No
+1254101,8,White,Female,No
+1254126,6,Two or More Races,Male,Free
+1254220,5,White,Female,nan
+1254184,7,Native Havaiian/Other Pacific Islander,Male,Free
+1254127,7,Two or More Races,Female,No
+1254744,7,Native Havaiian/Other Pacific Islander,Female,No
+1254131,7,Black/African American,Male,Free
+1254490,7,White,Female,No
+1254137,7,White,Male,No
+1254713,5,White,Male,No
+1254531,6,Black/African American,Female,No
+1254603,8,White,Male,No
+1254632,5,Native Havaiian/Other Pacific Islander,Male,Reduced Price
+1254121,5,Black/African American,Male,nan
+1254653,5,White,Female,Reduced Price
+1254601,7,Black/African American,Male,Reduced Price
+1254542,8,Black/African American,Male,Free
+1254763,8,White,Male,Free
+1254354,5,Black/African American,Female,No
+1254663,7,nan,Female,Free
+1254106,6,White,Female,Reduced Price
+1254361,5,Black/African American,Female,No
+1254187,8,White,Male,No
+1254394,6,Black/African American,Male,No
+1254414,6,Hispanic/Latino,Female,No
+1254111,6,Asian,Male,nan
+1254307,7,White,Male,nan
+1254768,8,Native Havaiian/Other Pacific Islander,Male,Free
+1254757,7,White,Male,No
+1254800,6,White,Female,No
+1254687,6,Black/African American,Female,No
+1254543,6,Black/African American,Female,nan
+1254160,5,Two or More Races,Female,Free
+1254727,7,White,Female,Reduced Price
+1254731,6,White,Female,No
+1254302,5,White,Female,No
+1254194,6,White,Male,No
+1254204,7,Black/African American,Female,No
+1254422,6,Black/African American,Male,Free
+1254461,6,nan,Female,Free
+1254566,6,White,Female,No
+1254290,8,Black/African American,Male,No
+1254451,7,Hispanic/Latino,Male,No
+1254142,6,Black/African American,Male,Reduced Price
+1254200,7,Black/African American,Female,No
+1254199,5,Black/African American,Female,Free
+1254827,7,Black/African American,Male,No
+1254582,8,White,Male,nan
+1254769,8,Black/African American,Male,No
+1254732,8,White,Female,Reduced Price
+1254320,7,Black/African American,Female,Free
+1254481,5,White,Male,Reduced Price
+1254278,6,White,Male,nan
+1254430,7,Black/African American,Male,Reduced Price
+1254689,8,nan,Female,Reduced Price
+1254410,7,White,Male,No
+1254625,6,White,Male,nan
+1254698,5,White,Male,No
+1254741,6,White,Female,nan
+1254764,7,Black/African American,Female,Reduced Price
+1254681,5,Black/African American,Male,No
+1254229,5,White,Female,nan
+1254132,8,White,Male,Free
+1254706,6,White,Female,No
+1254675,6,White,Male,No
+1254377,5,nan,Male,No
+1254369,6,White,Female,nan
+1254496,6,Black/African American,Female,No
+1254579,7,White,Male,Reduced Price
+1254241,5,White,Female,No
+1254467,7,White,Male,No
+1254615,5,White,Male,Reduced Price
+1254391,8,Black/African American,Male,No
+1254482,8,Asian,Male,nan
+1254463,8,White,Female,No
+1254733,5,Black/African American,Male,No
+1254265,8,Black/African American,Female,No
+1254486,7,White,Female,No
+1254093,8,Black/African American,Female,No
+1254107,5,White,Male,Reduced Price
+1254134,7,White,Female,nan
+1254648,7,White,Male,No
+1254323,5,Two or More Races,Male,Free
+1254550,7,White,Female,nan
+1254116,8,White,Male,No
+1254368,8,White,Female,nan
+1254739,5,White,Female,Reduced Price
+1254208,8,White,Female,No
+1254693,8,Two or More Races,Female,No
+1254612,8,Black/African American,Male,Reduced Price
+1254853,5,White,Male,No
+1254678,5,White,Female,Reduced Price
+1254348,6,White,Male,nan
+1254540,6,White,Male,No
+1254522,6,White,Female,No
+1254734,6,Black/African American,Male,No
+1254449,7,nan,Female,Free
+1254073,6,Black/African American,Male,No
+1254677,8,Asian,Female,Free
+1254316,5,Black/African American,Female,No
+1254788,7,White,Male,No
+1254729,7,Asian,Female,Reduced Price
+1254468,8,White,Female,No
+1254556,6,Black/African American,Male,Free
+1254179,8,Black/African American,Female,No
+1254735,8,nan,Male,No
+1254621,6,White,Male,No
+1254403,6,White,Female,No
+1254484,6,Hispanic/Latino,Male,Free
+1254206,6,White,Female,No
+1254437,5,Black/African American,Female,Free
+1254319,7,Black/African American,Female,Free
+1254749,6,White,Male,No
+1254830,5,Black/African American,Female,No
+1254590,8,White,Female,nan
+1254444,6,White,Female,Reduced Price
+1254388,8,White,Male,Reduced Price
+1254634,7,White,Female,No
+1254440,6,White,Female,nan
+1254282,6,Two or More Races,Male,Reduced Price
+1254641,6,Black/African American,Female,nan
+1254548,6,White,Male,nan
+1254216,5,Black/African American,Female,Free
+1254631,5,Black/African American,Female,No
+1254203,7,White,Male,No
+1254125,6,Black/African American,Female,No
+1254281,8,White,Male,nan
+1254480,6,Black/African American,Male,Free
+1254230,5,White,Male,Free
+1254173,6,White,Female,Reduced Price
+1254620,6,Black/African American,Female,Reduced Price
+1254347,5,Asian,Male,No
+1254300,8,Black/African American,Male,No
+1254748,7,Black/African American,Male,No
+1254269,6,Black/African American,Female,Free
+1254765,5,White,Female,Reduced Price
+1254752,5,Black/African American,Male,No
+1254518,5,nan,Female,No
+1254325,6,Black/African American,Female,nan
+1254563,8,Asian,Male,No
+1254466,8,Black/African American,Female,Reduced Price
+1254077,7,White,Male,Reduced Price
+1254411,5,Black/African American,Female,nan
+1254218,6,White,Female,No
+1254479,5,Two or More Races,Male,nan
+1254785,8,Hispanic/Latino,Female,nan
+1254638,5,White,Male,No
+1254850,7,Two or More Races,Female,Free
+1254560,6,White,Female,Free
+1254669,5,Hispanic/Latino,Male,nan
+1254091,5,Black/African American,Male,nan
+1254186,7,Black/African American,Male,No
+1254843,5,White,Female,nan
+1254831,8,Black/African American,Female,Reduced Price
+1254273,6,White,Female,Free
+1254094,7,nan,Female,No
+1254832,6,White,Male,No
+1254081,7,White,Female,Free
+1254751,7,Hispanic/Latino,Female,No
+1254702,7,White,Male,nan
+1254446,5,White,Male,Reduced Price
+1254379,7,Black/African American,Male,Reduced Price
+1254365,8,White,Female,No
+1254552,7,White,Male,Reduced Price
+1254249,6,nan,Female,Free
+1254392,8,Black/African American,Female,Free
+1254189,6,Black/African American,Male,No
+1254505,5,White,Male,No
+1254515,5,White,Female,No
+1254119,7,Black/African American,Female,nan
+1254511,6,White,Female,Reduced Price
+1254610,8,White,Female,Reduced Price
+1254841,8,Black/African American,Male,Reduced Price
+1254549,8,nan,Female,No
+1254182,7,White,Male,Free
+1254247,5,Black/African American,Male,Reduced Price
+1254585,6,White,Female,No
+1254801,5,Black/African American,Female,No
+1254682,6,White,Female,No
+1254326,8,Black/African American,Female,No
+1254491,5,White,Female,No
+1254709,8,White,Male,No
+1254792,5,Two or More Races,Male,No
+1254711,5,Black/African American,Female,Free
+1254829,7,White,Female,nan
+1254820,8,White,Female,Reduced Price
+1254854,6,White,Female,Reduced Price
+1254676,7,Black/African American,Male,Reduced Price
+1254684,6,White,Male,No
+1254334,6,American Indian/Alaska Native,Male,No
+1254779,8,White,Male,No
+1254633,8,White,Female,Free
+1254453,8,Black/African American,Male,Reduced Price
+1254493,6,nan,Female,No
+1254596,8,White,Female,Free
+1254192,8,nan,Male,Free
+1254143,8,Black/African American,Female,Free
+1254084,6,Black/African American,Male,Reduced Price
+1254626,5,White,Male,Free
+1254435,8,Black/African American,Female,Free
+1254725,5,White,Male,Free
+1254507,5,White,Male,No
+1254783,5,Black/African American,Female,No
+1254848,7,Black/African American,Male,Reduced Price
+1254523,5,Asian,Male,nan
+1254624,5,White,Female,nan
+1254225,7,Black/African American,Male,No
+1254719,8,White,Male,Reduced Price
+1254738,5,Black/African American,Female,No
+1254776,8,White,Male,Reduced Price
+1254613,5,White,Female,No
+1254517,6,Two or More Races,Male,Free
+1254814,5,White,Male,Reduced Price
+1254318,7,Black/African American,Female,No
+1254604,8,Asian,Female,No
+1254661,6,Black/African American,Male,Reduced Price
+1254708,8,nan,Female,nan
+1254191,5,White,Female,No
+1254432,5,White,Male,No
+1254223,5,White,Male,Free
+1254277,6,White,Male,Free
+1254152,5,Two or More Races,Female,No
+1254730,7,White,Female,No
+1254421,6,Black/African American,Female,No
+1254457,8,Black/African American,Female,Free
+1254630,8,Black/African American,Male,No
+1254246,6,White,Male,Free
+1254699,5,White,Male,Free
+1254100,8,White,Female,No
+1254271,5,White,Female,Free
+1254366,8,Black/African American,Female,Free
+1254694,5,Black/African American,Female,Free
+1254161,5,White,Female,Reduced Price
+1254153,8,Black/African American,Male,Free
+1254367,7,White,Female,No
+1254448,7,Black/African American,Female,No
+1254455,8,White,Male,Free
+1254283,7,Hispanic/Latino,Female,nan
+1254188,8,Black/African American,Female,Free
+1254454,6,White,Female,Reduced Price
+1254680,5,White,Female,Reduced Price
+1254352,5,Black/African American,Male,No
+1254329,8,White,Male,No
+1254826,8,Hispanic/Latino,Female,nan
+1254811,6,White,Female,Reduced Price
+1254534,5,Black/African American,Male,Free
+1254565,8,Black/African American,Female,No
+1254335,8,Black/African American,Male,Reduced Price
+1254358,8,Two or More Races,Male,Free
