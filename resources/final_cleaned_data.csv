@@ -1,0 +1,784 @@
+student_id,grade_level,race_ethnicity,gender,free_reduced_price_lunch,lessons_completed,total_minutes,math_score
+1254353,7,White,Male,No,24,21.04055849110722,289
+1254135,5,White,Male,,1,53.12438997953058,
+1254423,8,Black/African American,Male,Reduced Price,,,614
+1254598,8,White,Male,Free,,,578
+1254562,6,Black/African American,Male,No,,,395
+1254213,8,White,Male,No,21,11.374870270139208,518
+1254122,5,Black/African American,Female,Reduced Price,8,82.58201312574293,
+1254275,7,White,Male,Reduced Price,16,133.6223862665692,601
+1254600,6,Black/African American,Female,No,,,705
+1254828,5,White,Female,No,,,
+1254296,6,White,Male,Reduced Price,21,128.1152281403176,255
+1254322,6,Black/African American,Male,No,20,14.605243708196294,154
+1254148,6,White,Female,Free,7,162.63252911495536,
+1254683,8,Black/African American,Male,No,,,437
+1254652,6,Black/African American,Female,Free,,,551
+1254595,8,White,Male,No,,,387
+1254217,8,White,Female,No,22,52.59044825248994,505
+1254128,8,White,Male,,9,15.077667153760284,
+1254185,6,White,Female,No,4,50.00600986589985,225
+1254588,7,Two or More Races,Male,,,,735
+1254268,7,White,Female,Reduced Price,24,6.726875734878177,260
+1254802,6,White,Male,Reduced Price,,,687
+1254262,8,White,Male,No,10,93.94114847590734,379
+1254790,6,Black/African American,Female,Reduced Price,,,637
+1254129,5,Black/African American,Female,Free,2,81.11915930051538,
+1254529,7,Black/African American,Female,,,,459
+1254591,8,White,Female,Reduced Price,,,461
+1254471,6,White,Female,No,,,344
+1254464,5,White,Female,No,,,478
+1254852,5,White,Male,No,,,
+1254261,8,White,Male,No,19,72.57294088046898,672
+1254753,5,White,Male,No,,,243
+1254303,8,White,Male,No,15,94.28968426257916,453
+1254825,7,,Male,,,,
+1254239,5,Black/African American,Male,No,4,217.4536431190172,410
+1254771,5,,Male,No,,,762
+1254168,5,White,Male,Free,10,62.55103447843281,
+1254629,5,Asian,Male,Free,,,103
+1254720,7,White,Female,No,,,487
+1254514,5,White,Male,Free,,,599
+1254767,5,White,Male,,,,516
+1254253,6,White,Female,No,8,15.065596324353688,327
+1254196,5,White,Male,No,11,132.93761802935865,768
+1254321,7,White,Male,Free,18,48.754106879936565,566
+1254816,7,White,Male,Free,,,173
+1254670,8,Black/African American,Female,No,,,668
+1254796,7,White,Male,Reduced Price,,,654
+1254144,6,Black/African American,Male,Reduced Price,14,143.78879377268038,
+1254180,8,,Male,,2,92.99556165221766,
+1254309,6,White,Female,No,2,121.43454881358034,261
+1254336,6,White,Female,No,11,97.13015497340088,384
+1254736,6,Black/African American,Male,No,,,112
+1254157,8,Two or More Races,Female,Reduced Price,21,70.44132014551231,
+1254169,7,Two or More Races,Male,No,11,113.6715318385215,
+1254154,6,White,Female,Reduced Price,23,50.48563930324741,
+1254112,5,Black/African American,Male,,2,116.40483326859206,
+1254308,8,Black/African American,Male,,24,48.33616207055922,719
+1254102,8,White,Female,No,22,128.25754436548436,
+1254782,5,Black/African American,Female,No,,,660
+1254819,8,White,Male,,,,691
+1254292,8,Native Havaiian/Other Pacific Islander,Female,,24,147.65187712361765,244
+1254104,8,,Male,No,15,72.50363367511903,
+1254304,6,White,Female,No,3,126.28085126275278,332
+1254516,6,White,Female,,,,407
+1254098,8,White,Female,No,3,137.776293303308,
+1254079,5,,Female,No,7,7.033696788091315,
+1254799,7,Native Havaiian/Other Pacific Islander,Male,,,,721
+1254786,5,White,Male,Free,,,611
+1254425,6,White,Male,Reduced Price,,,564
+1254108,8,White,Male,Reduced Price,2,61.812772642859045,
+1254577,6,Two or More Races,Male,,,,794
+1254254,8,Black/African American,Male,No,21,103.22778363589966,533
+1254489,6,Black/African American,Male,,,,670
+1254492,8,Black/African American,Female,No,,,495
+1254804,5,White,Male,Reduced Price,,,164
+1254227,5,White,Female,Free,18,139.8526401119299,390
+1254646,6,American Indian/Alaska Native,Male,No,,,458
+1254508,6,Black/African American,Male,,,,436
+1254158,7,Hispanic/Latino,Male,Free,23,63.58096660328187,
+1254332,5,,Female,No,6,112.21003849837685,464
+1254439,7,White,Male,Free,,,262
+1254258,6,White,Female,,12,183.73935651167025,509
+1254581,8,Black/African American,Male,Free,,,112
+1254647,6,White,Male,No,,,185
+1254679,8,White,Male,No,,,749
+1254140,7,Black/African American,Male,Reduced Price,11,4.905091832379664,
+1254575,6,Black/African American,Female,Free,,,728
+1254297,7,Black/African American,Female,No,15,100.28814156468935,506
+1254834,5,White,Male,No,,,
+1254076,8,White,Female,Reduced Price,19,20.40507820694082,
+1254784,6,White,Male,Free,,,147
+1254212,8,White,Male,,2,3.051284929801196,269
+1254155,6,White,Female,Free,17,117.20384129152464,
+1254544,6,Black/African American,Female,Free,,,207
+1254578,6,White,Male,Free,,,495
+1254459,5,White,Male,Free,,,186
+1254501,8,Black/African American,Male,Reduced Price,,,714
+1254374,5,White,Female,No,10,9.85546174728148,536
+1254503,5,,Female,Reduced Price,,,761
+1254397,7,Black/African American,Male,No,21,69.29169182710781,333
+1254166,6,Black/African American,Male,,9,191.1140938894655,
+1254532,6,Black/African American,Female,Free,,,745
+1254473,7,Black/African American,Male,No,,,351
+1254691,8,Two or More Races,Female,No,,,781
+1254845,6,White,Male,Reduced Price,,,
+1254447,8,White,Female,Free,,,215
+1254833,8,White,Male,Free,,,
+1254839,6,Two or More Races,Male,,,,
+1254696,6,White,Male,No,,,259
+1254567,7,White,Male,Reduced Price,,,330
+1254415,7,Black/African American,Female,Free,,,603
+1254337,7,White,Male,Free,2,155.82367115578947,554
+1254092,5,Black/African American,Female,No,22,61.33191579362377,
+1254787,7,White,Male,No,,,102
+1254170,8,Black/African American,Male,Reduced Price,1,15.23889733060708,
+1254177,8,Black/African American,Male,Free,12,20.262860950888196,
+1254252,7,White,Male,No,9,247.6383914357968,602
+1254609,5,Native Havaiian/Other Pacific Islander,Male,Free,,,654
+1254528,5,Black/African American,Female,Reduced Price,,,781
+1254428,5,White,Female,No,,,713
+1254340,6,Black/African American,Male,No,15,19.016506610891444,609
+1254236,6,Black/African American,Male,Reduced Price,17,33.56323956703085,469
+1254333,7,White,Male,No,15,6.118940599649353,645
+1254614,5,White,Female,,,,695
+1254475,8,,Female,Free,,,578
+1254385,6,White,Male,No,9,89.639257648867,423
+1254668,5,White,Male,No,,,285
+1254589,8,White,Male,No,,,319
+1254381,6,Asian,Male,No,19,40.76859628344799,334
+1254743,7,Black/African American,Male,,,,497
+1254506,8,White,Male,Reduced Price,,,453
+1254259,8,Black/African American,Female,Free,9,163.07298655647284,595
+1254096,6,White,Female,No,16,61.56332654175121,
+1254279,7,White,Male,Free,6,77.89926170469218,720
+1254527,8,White,Female,No,,,530
+1254635,6,White,Male,Free,,,447
+1254436,7,White,Female,,,,171
+1254240,8,Black/African American,Male,No,2,44.88879254867929,473
+1254810,7,,Male,No,,,446
+1254777,5,White,Female,No,,,514
+1254172,8,White,Male,No,14,21.594160942736192,
+1254530,5,Black/African American,Female,No,,,327
+1254097,8,Two or More Races,Female,No,7,60.58723692713608,
+1254260,6,Black/African American,Male,,15,70.51985289663604,488
+1254803,7,Hispanic/Latino,Female,No,,,204
+1254798,5,White,Male,Reduced Price,,,588
+1254607,8,White,Female,No,,,461
+1254574,5,,Male,Free,,,277
+1254355,6,White,Female,No,19,84.36820295639824,734
+1254617,7,White,Female,,,,332
+1254666,5,White,Female,,,,392
+1254408,6,White,Female,Reduced Price,21,68.94000095746023,320
+1254419,6,White,Male,No,,,213
+1254636,7,Black/African American,Female,No,,,427
+1254847,7,Two or More Races,Male,No,,,
+1254386,8,White,Female,No,24,141.62133490690763,448
+1254338,7,Native Havaiian/Other Pacific Islander,Male,Free,5,73.88596929492113,650
+1254330,8,White,Female,No,16,39.49539212968278,434
+1254441,8,White,Female,,,,238
+1254400,7,White,Male,,9,107.97333090964364,678
+1254692,7,White,Male,No,,,381
+1254401,6,White,Female,Free,4,37.92110902309519,143
+1254838,7,Black/African American,Female,Free,,,
+1254487,8,White,Male,Free,,,345
+1254640,8,Black/African American,Female,Reduced Price,,,229
+1254583,8,Hispanic/Latino,Female,,,,485
+1254524,6,White,Male,Free,,,764
+1254198,7,Black/African American,Female,No,6,132.95677944184197,109
+1254418,7,White,Female,No,,,194
+1254651,7,White,Female,Free,,,210
+1254124,8,White,Female,Free,16,128.997224844637,
+1254193,8,Hispanic/Latino,Female,No,11,36.05171617009176,380
+1254267,7,Black/African American,Female,Reduced Price,16,45.58420971894421,719
+1254714,8,Black/African American,Male,No,,,777
+1254812,6,White,Male,No,,,728
+1254133,8,White,Male,Free,12,127.8788383248258,
+1254656,6,Black/African American,Male,Free,,,129
+1254378,8,,Female,No,6,203.47818450549295,314
+1254512,6,White,Female,Free,,,298
+1254458,8,Hispanic/Latino,Female,No,,,363
+1254360,5,White,Female,No,23,131.6514536378582,399
+1254642,8,White,Female,Reduced Price,,,715
+1254433,6,White,Male,No,,,211
+1254622,6,White,Male,Reduced Price,,,346
+1254821,6,Black/African American,Male,No,,,176
+1254288,5,American Indian/Alaska Native,Female,Free,16,38.135959470828894,788
+1254568,5,White,Male,Reduced Price,,,632
+1254341,6,Asian,Female,No,20,91.3213129234046,468
+1254559,7,White,Male,No,,,191
+1254818,7,Black/African American,Female,,,,157
+1254817,6,White,Male,No,,,435
+1254805,5,White,Female,No,,,630
+1254328,7,,Male,Free,6,99.17694871774964,249
+1254497,7,White,Male,No,,,717
+1254474,8,Black/African American,Male,No,,,371
+1254195,5,Black/African American,Female,No,12,106.401698116141,493
+1254164,5,Asian,Male,No,9,51.09302652880275,
+1254349,5,Black/African American,Female,No,2,39.060615183413375,737
+1254327,7,,Female,Reduced Price,16,72.5724716363594,614
+1254717,7,Black/African American,Male,No,,,246
+1254628,8,White,Male,,,,391
+1254773,7,White,Male,No,,,535
+1254443,5,Two or More Races,Female,Free,,,449
+1254456,6,White,Female,No,,,754
+1254775,8,Black/African American,Male,No,,,550
+1254697,5,Black/African American,Female,,,,442
+1254315,5,Black/African American,Male,No,21,2.0342985329536045,739
+1254726,6,White,Female,,,,602
+1254498,7,White,Male,Free,,,363
+1254371,6,White,Male,No,2,106.55647166124102,493
+1254395,6,White,Female,No,7,118.50742170355645,602
+1254602,6,White,Female,Free,,,720
+1254149,6,White,Male,No,18,32.32601795270768,
+1254264,8,Hispanic/Latino,Male,No,16,108.3313099812953,582
+1254760,8,White,Female,,,,264
+1254285,5,White,Female,No,17,32.30833317628422,161
+1254390,7,White,Female,No,15,153.2570972872487,644
+1254294,7,Asian,Female,No,15,66.75189230723598,432
+1254162,8,White,Female,No,10,103.88807181604533,
+1254243,8,Black/African American,Female,No,15,3.6427196235924657,220
+1254113,5,White,Female,No,14,156.7923351240883,
+1254375,7,Two or More Races,Female,Free,13,90.53257276412076,378
+1254075,8,Black/African American,Female,No,12,154.76370709065847,
+1254201,7,Two or More Races,Female,,23,67.91928566276478,570
+1254815,7,,Male,No,,,690
+1254429,6,Native Havaiian/Other Pacific Islander,Female,Free,,,760
+1254434,6,White,Male,No,,,730
+1254707,6,Black/African American,Female,Reduced Price,,,450
+1254700,6,White,Female,,,,623
+1254373,5,White,Male,Reduced Price,21,117.30361782110808,797
+1254167,8,White,Male,,2,37.183505433787175,
+1254536,8,White,Female,Reduced Price,,,730
+1254761,6,White,Female,Free,,,758
+1254469,8,White,Female,No,,,405
+1254088,5,White,Male,No,9,111.73973855605183,
+1254183,8,Black/African American,Female,Reduced Price,2,26.82328845257697,667
+1254781,5,White,Female,Free,,,715
+1254674,6,Black/African American,Female,Free,,,619
+1254383,7,White,Female,No,24,54.35081038980009,233
+1254750,7,Black/African American,Male,No,,,141
+1254420,5,Black/African American,Female,Free,,,608
+1254424,5,White,Male,Reduced Price,,,750
+1254564,8,White,Male,No,,,422
+1254438,6,Black/African American,Male,No,,,642
+1254460,8,White,Male,Free,,,776
+1254533,7,White,Male,,,,159
+1254105,8,Black/African American,Male,Free,13,71.55780340864062,
+1254526,8,Black/African American,Female,No,,,277
+1254178,7,Black/African American,Female,No,23,70.5648398815727,
+1254654,8,Black/African American,Male,,,,178
+1254795,8,White,Male,Free,,,169
+1254331,7,White,Male,No,14,165.25790773666327,615
+1254521,6,Asian,Male,No,,,215
+1254746,8,White,Male,,,,624
+1254593,6,Black/African American,Female,Reduced Price,,,763
+1254228,7,Black/African American,Female,No,7,85.13508390681808,464
+1254248,7,White,Female,No,21,47.51762801155417,199
+1254202,6,Two or More Races,Male,Free,18,22.74121134558225,100
+1254671,7,Black/African American,Female,No,,,208
+1254557,8,Two or More Races,Female,Free,,,400
+1254363,7,White,Female,,9,85.44719100634919,672
+1254139,7,White,Male,No,17,5.02152871548658,
+1254364,7,,Male,Free,22,68.2849806567456,689
+1254594,6,White,Male,Free,,,385
+1254658,5,Black/African American,Male,No,,,311
+1254794,8,Black/African American,Male,Reduced Price,,,428
+1254721,8,White,Female,Reduced Price,,,548
+1254237,8,Two or More Races,Male,Free,9,10.610841146684772,436
+1254442,6,Black/African American,Female,,,,120
+1254554,6,American Indian/Alaska Native,Female,No,,,142
+1254476,6,White,Male,No,,,210
+1254417,5,White,Female,No,,,683
+1254190,5,Black/African American,Female,No,18,28.82600677689317,705
+1254780,6,White,Male,No,,,170
+1254472,7,White,Male,No,,,781
+1254399,8,Asian,Female,Free,12,28.329096646083634,451
+1254509,5,White,Male,Free,,,487
+1254171,5,Black/African American,Male,No,6,154.61841653435536,
+1254272,7,White,Female,Free,11,95.85815968038747,568
+1254797,5,White,Female,Reduced Price,,,345
+1254350,7,,Female,No,10,75.70411942954226,255
+1254312,8,White,Male,Free,15,162.78258967466766,572
+1254824,6,Two or More Races,Male,,,,
+1254745,7,,Female,No,,,598
+1254287,5,White,Male,No,16,38.28855070614264,424
+1254662,5,Black/African American,Female,No,,,563
+1254758,5,White,Male,No,,,664
+1254772,5,White,Female,No,,,569
+1254398,6,Black/African American,Female,No,11,7.874796242169885,605
+1254570,7,Black/African American,Female,No,,,138
+1254431,6,White,Female,Free,,,103
+1254592,6,White,Male,No,,,404
+1254197,8,White,Male,Free,12,98.61694811659068,724
+1254123,8,Two or More Races,Male,,11,106.19149314697654,
+1254722,7,Two or More Races,Male,Free,,,550
+1254686,8,White,Female,No,,,714
+1254807,8,White,Female,No,,,400
+1254470,5,White,Female,No,,,106
+1254546,6,White,Female,No,,,572
+1254221,8,Black/African American,Female,Reduced Price,10,145.24339993630406,524
+1254759,8,Black/African American,Male,No,,,787
+1254586,8,Asian,Female,No,,,570
+1254339,7,Black/African American,Male,No,10,24.6168818297642,480
+1254755,7,,Male,No,,,193
+1254085,5,Black/African American,Male,No,18,72.91544329213343,
+1254541,8,White,Male,,,,334
+1254813,7,White,Male,Reduced Price,,,627
+1254712,8,Hispanic/Latino,Female,No,,,746
+1254774,8,Black/African American,Female,No,,,640
+1254311,6,Black/African American,Female,Free,5,22.848319232326485,386
+1254849,8,Black/African American,Male,No,,,
+1254080,7,White,Female,No,5,60.35408506301317,
+1254618,7,White,Female,Reduced Price,,,775
+1254405,5,Black/African American,Male,No,15,125.08480909932996,226
+1254130,6,White,Female,Reduced Price,2,54.59536174091573,
+1254718,6,Two or More Races,Female,Free,,,544
+1254445,7,Two or More Races,Female,Free,,,377
+1254238,6,White,Female,No,13,135.70265118664778,238
+1254576,7,Asian,Male,,,,274
+1254263,6,White,Male,No,20,59.5547948384818,337
+1254478,8,Black/African American,Female,,,,273
+1254406,5,White,Male,Free,24,4.991772089155339,185
+1254855,7,Black/African American,Female,No,,,
+1254851,8,Black/African American,Female,No,,,
+1254840,5,White,Male,,,,
+1254426,7,White,Male,,,,650
+1254627,5,White,Female,,,,495
+1254494,7,White,Male,Free,,,778
+1254756,6,,Female,No,,,177
+1254299,5,,Female,Free,13,5.477060455091303,541
+1254525,5,White,Female,Free,,,259
+1254639,5,Black/African American,Male,No,,,598
+1254558,6,Black/African American,Male,Reduced Price,,,210
+1254664,7,White,Female,,,,521
+1254520,6,White,Male,No,,,749
+1254090,8,Black/African American,Female,No,17,18.120870830127306,
+1254597,5,White,Male,,,,263
+1254770,5,Hispanic/Latino,Female,No,,,443
+1254462,7,White,Male,No,,,573
+1254343,5,Black/African American,Male,,21,181.04987658450324,604
+1254793,8,White,Male,Free,,,569
+1254545,8,,Female,No,,,353
+1254553,7,Black/African American,Male,Free,,,162
+1254844,7,Black/African American,Female,No,,,
+1254608,8,Black/African American,Male,Reduced Price,,,354
+1254244,6,White,Male,No,12,30.117818042633093,531
+1254846,5,Black/African American,Female,,,,
+1254513,5,Black/African American,Female,No,,,359
+1254705,7,Black/African American,Female,No,,,571
+1254688,7,White,Female,Free,,,124
+1254465,8,Black/African American,Female,No,,,421
+1254715,8,White,Female,Reduced Price,,,484
+1254324,6,Hispanic/Latino,Female,,2,126.8159751721938,656
+1254649,8,White,Male,No,,,786
+1254599,6,White,Female,No,,,461
+1254231,7,White,Female,Free,13,188.60100512094704,789
+1254286,6,White,Female,No,6,58.7111105244315,629
+1254685,7,White,Female,No,,,136
+1254673,8,White,Female,No,,,463
+1254314,5,White,Female,No,24,48.82490464788431,525
+1254313,8,Black/African American,Female,No,24,144.95557165704622,596
+1254150,7,Asian,Female,Free,22,187.3865745758912,
+1254074,6,White,Male,No,11,41.43637147535544,
+1254147,5,White,Female,,21,6.648405163393292,
+1254145,8,White,Female,,7,37.04879292085995,
+1254701,6,White,Male,Reduced Price,,,234
+1254643,7,,Female,No,,,707
+1254255,8,White,Male,No,14,0.8657866185248506,377
+1254256,5,White,Female,,15,32.63992061088382,340
+1254690,7,White,Male,Reduced Price,,,639
+1254078,8,Black/African American,Male,No,6,75.72193677487189,
+1254250,5,Black/African American,Male,No,1,16.47901636209717,482
+1254427,8,White,Female,Reduced Price,,,430
+1254215,7,White,Male,No,1,58.52509544691205,391
+1254500,8,White,Female,Reduced Price,,,105
+1254791,7,Black/African American,Female,No,,,170
+1254389,6,White,Female,Reduced Price,19,14.734464934010912,289
+1254362,8,White,Female,No,17,209.1459475496759,131
+1254342,7,White,Male,No,14,23.668986607208872,324
+1254488,5,,Male,No,,,680
+1254716,8,Black/African American,Male,No,,,491
+1254280,6,White,Female,Free,4,261.39166861447893,391
+1254836,6,White,Male,,,,
+1254082,7,White,Male,Free,8,41.385670625014825,
+1254742,7,White,Male,No,,,643
+1254747,6,American Indian/Alaska Native,Male,No,,,445
+1254234,7,Black/African American,Female,Free,4,47.97205710577674,351
+1254211,5,Hispanic/Latino,Female,Reduced Price,21,8.588958327107045,245
+1254477,8,White,Female,No,,,746
+1254089,5,,Male,,1,103.07634815248952,
+1254235,7,Asian,Female,Free,6,44.790325719693705,771
+1254276,7,White,Female,,21,14.955901020775489,626
+1254659,8,White,Male,No,,,601
+1254120,6,White,Female,Reduced Price,16,73.91026474574196,
+1254270,7,Asian,Female,Reduced Price,18,36.7422698383517,160
+1254356,5,White,Female,Reduced Price,11,21.002800759277346,202
+1254402,5,White,Female,No,15,16.185107296107866,780
+1254637,5,White,Male,Free,,,729
+1254485,7,White,Male,No,,,465
+1254837,5,White,Male,,,,
+1254778,8,,Female,Free,,,744
+1254301,8,White,Female,No,17,97.24151068565914,130
+1254407,8,Black/African American,Female,Free,11,51.45376781569989,333
+1254551,7,White,Female,,,,665
+1254351,8,White,Male,Reduced Price,14,82.55125810520252,140
+1254412,5,Asian,Male,No,12,80.86372666545294,771
+1254298,7,Black/African American,Male,No,16,137.0237254471053,778
+1254207,8,Hispanic/Latino,Female,Free,17,93.87187166111408,661
+1254537,6,,Male,No,,,680
+1254291,5,,Female,Reduced Price,11,89.25322487077419,769
+1254359,6,White,Female,Free,9,67.62163192576432,241
+1254572,8,White,Male,,,,448
+1254605,8,White,Female,,,,555
+1254519,8,White,Female,Reduced Price,,,203
+1254569,7,Black/African American,Female,No,,,343
+1254376,8,Black/African American,Male,Reduced Price,1,12.17996570919176,625
+1254510,7,White,Female,Free,,,456
+1254502,6,White,Male,No,,,566
+1254345,5,Black/African American,Male,No,11,110.043125746698,451
+1254823,7,White,Male,No,,,
+1254409,7,American Indian/Alaska Native,Female,No,13,93.85751356519428,454
+1254165,6,White,Female,Reduced Price,12,55.198370139424846,
+1254159,8,Hispanic/Latino,Male,Free,3,11.652388979223366,
+1254396,5,Asian,Male,Reduced Price,24,48.55076132098317,578
+1254483,8,White,Female,Free,,,634
+1254117,6,Black/African American,Female,No,3,180.1911651851476,
+1254555,7,,Male,Reduced Price,,,658
+1254370,8,White,Male,Reduced Price,14,193.6181776482645,697
+1254644,6,White,Female,No,,,385
+1254413,7,Black/African American,Male,No,5,49.47870910614538,795
+1254151,5,White,Male,No,4,65.03019655761241,
+1254251,5,White,Male,Reduced Price,8,34.623457292134354,436
+1254665,7,Two or More Races,Female,Reduced Price,,,252
+1254452,5,Black/African American,Female,No,,,316
+1254095,6,Black/African American,Female,No,15,18.25742728145779,
+1254306,7,Black/African American,Female,No,22,146.98706077409253,498
+1254222,8,White,Female,,23,35.947728457037215,357
+1254317,7,White,Female,No,17,118.53071645758814,440
+1254587,6,Black/African American,Female,No,,,631
+1254650,5,Black/African American,Male,Free,,,180
+1254118,6,White,Female,No,24,204.08536909130424,
+1254619,6,Black/African American,Female,No,,,733
+1254754,5,Black/African American,Male,Reduced Price,,,681
+1254539,8,White,Male,Free,,,774
+1254103,7,White,Female,,16,97.67086719027698,
+1254357,8,Black/African American,Male,Reduced Price,10,32.345945194079626,572
+1254584,5,Hispanic/Latino,Male,Free,,,637
+1254257,7,Black/African American,Male,No,11,97.2905791515992,259
+1254695,7,Black/African American,Female,Free,,,412
+1254535,5,Two or More Races,Female,Reduced Price,,,385
+1254344,5,Black/African American,Male,No,22,113.7475066357675,127
+1254138,8,Native Havaiian/Other Pacific Islander,Female,No,12,255.23165685496124,
+1254611,7,White,Female,No,,,532
+1254141,5,Black/African American,Female,Free,22,121.21908257736996,
+1254667,5,Black/African American,Female,No,,,525
+1254623,6,Black/African American,Female,No,,,399
+1254616,7,,Male,Free,,,444
+1254704,5,White,Female,No,,,352
+1254808,6,White,Male,Reduced Price,,,632
+1254086,7,White,Male,Free,5,77.25123039587211,
+1254404,5,White,Male,,22,17.773474659046176,571
+1254504,8,White,Female,No,,,756
+1254284,8,Two or More Races,Male,Free,23,0.8561461550754833,562
+1254450,8,Black/African American,Female,No,,,443
+1254346,6,White,Female,Free,8,107.10219568522308,153
+1254233,5,White,Male,,3,108.38563402471895,521
+1254210,7,Two or More Races,Female,No,19,26.63974800878274,627
+1254305,7,,Female,No,21,122.33760081230488,680
+1254806,5,Black/African American,Male,Free,,,610
+1254822,6,White,Female,No,,,665
+1254703,8,White,Male,No,,,645
+1254266,7,White,Female,Free,5,17.123479315018336,217
+1254110,7,White,Male,Free,13,47.80867014530219,
+1254219,5,White,Female,Reduced Price,9,85.84617641468854,678
+1254146,7,American Indian/Alaska Native,Male,No,23,69.78794202388242,
+1254728,7,White,Male,Free,,,189
+1254372,6,White,Male,Free,19,69.84812953251878,216
+1254724,8,Asian,Female,Free,,,256
+1254214,5,,Female,Reduced Price,20,38.7446114447413,235
+1254136,8,White,Female,,18,29.538190733621978,
+1254657,7,Black/African American,Female,No,,,166
+1254174,5,White,Female,Free,13,64.57551029331155,
+1254384,7,Black/African American,Female,Free,5,45.13699439226186,247
+1254245,7,,Male,Free,22,20.76130269749211,420
+1254606,7,White,Male,Free,,,681
+1254416,7,Black/African American,Female,Free,,,530
+1254723,7,White,Female,Free,,,272
+1254310,7,Native Havaiian/Other Pacific Islander,Male,Free,20,18.96987915128974,243
+1254176,7,White,Male,No,12,25.65223398368046,
+1254740,7,White,Male,Free,,,426
+1254561,7,Hispanic/Latino,Female,No,,,356
+1254274,8,White,Female,No,14,135.4056118895666,529
+1254809,7,White,Male,No,,,694
+1254672,5,White,Male,,,,585
+1254232,6,Native Havaiian/Other Pacific Islander,Male,No,8,5.583418660409387,738
+1254660,8,White,Female,No,,,374
+1254224,5,White,Male,No,23,20.53175532312592,385
+1254835,5,Two or More Races,Female,Free,,,
+1254205,6,Two or More Races,Male,,20,47.69530275329976,471
+1254109,6,Black/African American,Male,Reduced Price,8,18.513486242789423,
+1254083,5,Black/African American,Male,No,10,106.97755224491624,
+1254393,5,Black/African American,Female,Reduced Price,16,0.1670261490711727,170
+1254766,7,White,Female,No,,,119
+1254499,5,Black/African American,Male,No,,,129
+1254099,7,White,Male,,21,67.59458751652353,
+1254645,5,Black/African American,Female,No,,,383
+1254087,8,White,Male,Free,21,6.193090624102818,
+1254175,7,White,Male,Free,12,73.79015062228633,
+1254115,7,Black/African American,Female,Free,15,7.923672797478666,
+1254580,8,Black/African American,Female,Free,,,649
+1254295,6,Black/African American,Female,,9,111.8631820980678,742
+1254382,7,White,Female,No,19,29.87168417067989,393
+1254226,8,White,Female,No,9,32.11677483091366,382
+1254710,8,White,Male,,,,642
+1254163,6,Black/African American,Female,,21,141.6986908194267,
+1254573,5,Two or More Races,Male,Free,,,642
+1254114,6,Asian,Male,No,20,54.04824829601553,
+1254789,5,White,Female,No,,,774
+1254387,8,,Female,Free,9,97.96450239783324,146
+1254547,8,Black/African American,Male,Free,,,197
+1254380,7,White,Male,No,1,45.42437699905595,298
+1254209,6,Two or More Races,Female,Reduced Price,11,9.042068629325506,574
+1254538,7,White,Male,Reduced Price,,,274
+1254571,8,White,Male,Free,,,200
+1254655,8,Native Havaiian/Other Pacific Islander,Male,,,,138
+1254289,5,White,Male,Free,21,10.890704018526042,405
+1254242,8,Black/African American,Female,No,21,43.96384292397225,410
+1254762,7,,Male,No,,,519
+1254181,6,Hispanic/Latino,Male,No,8,60.81713538335129,
+1254737,7,Black/African American,Male,Free,,,262
+1254842,7,White,Male,Free,,,
+1254156,6,White,Male,Free,18,89.23435697814139,
+1254293,6,White,Male,,15,62.51198978610974,366
+1254495,8,Black/African American,Female,No,,,273
+1254101,8,White,Female,No,13,60.92804278353906,
+1254126,6,Two or More Races,Male,Free,13,161.9406275921763,
+1254220,5,White,Female,,17,23.127281203269163,386
+1254184,7,Native Havaiian/Other Pacific Islander,Male,Free,9,26.20258557269205,743
+1254127,7,Two or More Races,Female,No,11,8.339257216692095,
+1254744,7,Native Havaiian/Other Pacific Islander,Female,No,,,735
+1254131,7,Black/African American,Male,Free,11,83.32331052116932,
+1254490,7,White,Female,No,,,568
+1254137,7,White,Male,No,13,28.477100675129503,
+1254713,5,White,Male,No,,,717
+1254531,6,Black/African American,Female,No,,,711
+1254603,8,White,Male,No,,,732
+1254632,5,Native Havaiian/Other Pacific Islander,Male,Reduced Price,,,547
+1254121,5,Black/African American,Male,,12,191.00901491911532,
+1254653,5,White,Female,Reduced Price,,,597
+1254601,7,Black/African American,Male,Reduced Price,,,236
+1254542,8,Black/African American,Male,Free,,,419
+1254763,8,White,Male,Free,,,419
+1254354,5,Black/African American,Female,No,6,37.20395709001745,726
+1254663,7,,Female,Free,,,742
+1254106,6,White,Female,Reduced Price,2,53.826717489508525,
+1254361,5,Black/African American,Female,No,2,48.893236241317176,349
+1254187,8,White,Male,No,4,108.82158604438226,129
+1254394,6,Black/African American,Male,No,24,46.9114846223707,122
+1254414,6,Hispanic/Latino,Female,No,,,359
+1254111,6,Asian,Male,,10,69.73238292072746,
+1254307,7,White,Male,,13,20.07211520624975,590
+1254768,8,Native Havaiian/Other Pacific Islander,Male,Free,,,727
+1254757,7,White,Male,No,,,230
+1254800,6,White,Female,No,,,541
+1254687,6,Black/African American,Female,No,,,628
+1254543,6,Black/African American,Female,,,,733
+1254160,5,Two or More Races,Female,Free,23,23.80841734297346,
+1254727,7,White,Female,Reduced Price,,,612
+1254731,6,White,Female,No,,,309
+1254302,5,White,Female,No,12,128.00182532786954,568
+1254194,6,White,Male,No,14,83.66885697014766,413
+1254204,7,Black/African American,Female,No,15,8.866789900661383,226
+1254422,6,Black/African American,Male,Free,,,559
+1254461,6,,Female,Free,,,255
+1254566,6,White,Female,No,,,251
+1254290,8,Black/African American,Male,No,9,12.513511376756778,274
+1254451,7,Hispanic/Latino,Male,No,,,130
+1254142,6,Black/African American,Male,Reduced Price,16,103.71610777546198,
+1254200,7,Black/African American,Female,No,3,30.287163532862746,209
+1254199,5,Black/African American,Female,Free,23,8.743517946261548,143
+1254827,7,Black/African American,Male,No,,,
+1254582,8,White,Male,,,,430
+1254769,8,Black/African American,Male,No,,,335
+1254732,8,White,Female,Reduced Price,,,373
+1254320,7,Black/African American,Female,Free,5,59.13852394433616,365
+1254481,5,White,Male,Reduced Price,,,256
+1254278,6,White,Male,,23,80.2184147328179,669
+1254430,7,Black/African American,Male,Reduced Price,,,408
+1254689,8,,Female,Reduced Price,,,609
+1254410,7,White,Male,No,20,203.53992221933416,154
+1254625,6,White,Male,,,,469
+1254698,5,White,Male,No,,,648
+1254741,6,White,Female,,,,648
+1254764,7,Black/African American,Female,Reduced Price,,,340
+1254681,5,Black/African American,Male,No,,,319
+1254229,5,White,Female,,3,15.008186721871397,743
+1254132,8,White,Male,Free,9,116.72019361191457,
+1254706,6,White,Female,No,,,205
+1254675,6,White,Male,No,,,594
+1254377,5,,Male,No,11,26.962598948366335,582
+1254369,6,White,Female,,12,47.57781010397763,298
+1254496,6,Black/African American,Female,No,,,249
+1254579,7,White,Male,Reduced Price,,,471
+1254241,5,White,Female,No,13,126.85017908813346,575
+1254467,7,White,Male,No,,,158
+1254615,5,White,Male,Reduced Price,,,583
+1254391,8,Black/African American,Male,No,16,91.76369185370282,163
+1254482,8,Asian,Male,,,,579
+1254463,8,White,Female,No,,,523
+1254733,5,Black/African American,Male,No,,,315
+1254265,8,Black/African American,Female,No,7,95.85379135322404,566
+1254486,7,White,Female,No,,,459
+1254093,8,Black/African American,Female,No,4,191.55687848873515,
+1254107,5,White,Male,Reduced Price,13,55.573403009559655,
+1254134,7,White,Female,,13,108.94218623511551,
+1254648,7,White,Male,No,,,551
+1254323,5,Two or More Races,Male,Free,19,55.24181291140526,518
+1254550,7,White,Female,,,,513
+1254116,8,White,Male,No,3,44.30224552916597,
+1254368,8,White,Female,,13,77.50733757088699,740
+1254739,5,White,Female,Reduced Price,,,253
+1254208,8,White,Female,No,21,72.20326944903233,125
+1254693,8,Two or More Races,Female,No,,,144
+1254612,8,Black/African American,Male,Reduced Price,,,657
+1254853,5,White,Male,No,,,
+1254678,5,White,Female,Reduced Price,,,560
+1254348,6,White,Male,,23,132.57430301179735,241
+1254540,6,White,Male,No,,,516
+1254522,6,White,Female,No,,,737
+1254734,6,Black/African American,Male,No,,,187
+1254449,7,,Female,Free,,,715
+1254073,6,Black/African American,Male,No,21,199.69196703336783,
+1254677,8,Asian,Female,Free,,,122
+1254316,5,Black/African American,Female,No,3,62.10706878499823,217
+1254788,7,White,Male,No,,,686
+1254729,7,Asian,Female,Reduced Price,,,243
+1254468,8,White,Female,No,,,235
+1254556,6,Black/African American,Male,Free,,,641
+1254179,8,Black/African American,Female,No,22,167.66246156140554,
+1254735,8,,Male,No,,,322
+1254621,6,White,Male,No,,,313
+1254403,6,White,Female,No,21,49.51391870452254,154
+1254484,6,Hispanic/Latino,Male,Free,,,230
+1254206,6,White,Female,No,8,24.42357486804706,436
+1254437,5,Black/African American,Female,Free,,,585
+1254319,7,Black/African American,Female,Free,10,167.2007388086992,715
+1254749,6,White,Male,No,,,702
+1254830,5,Black/African American,Female,No,,,
+1254590,8,White,Female,,,,628
+1254444,6,White,Female,Reduced Price,,,199
+1254388,8,White,Male,Reduced Price,5,103.6293546192679,696
+1254634,7,White,Female,No,,,109
+1254440,6,White,Female,,,,111
+1254282,6,Two or More Races,Male,Reduced Price,2,139.38665505332654,766
+1254641,6,Black/African American,Female,,,,481
+1254548,6,White,Male,,,,282
+1254216,5,Black/African American,Female,Free,2,141.48264047389566,686
+1254631,5,Black/African American,Female,No,,,307
+1254203,7,White,Male,No,1,175.06597720126751,297
+1254125,6,Black/African American,Female,No,14,8.160818789950326,
+1254281,8,White,Male,,3,19.753336304924645,703
+1254480,6,Black/African American,Male,Free,,,613
+1254230,5,White,Male,Free,19,12.54550540654212,114
+1254173,6,White,Female,Reduced Price,22,98.79012190165032,
+1254620,6,Black/African American,Female,Reduced Price,,,645
+1254347,5,Asian,Male,No,6,158.31593580583976,649
+1254300,8,Black/African American,Male,No,7,36.47656444987582,731
+1254748,7,Black/African American,Male,No,,,283
+1254269,6,Black/African American,Female,Free,1,90.3438028859652,591
+1254765,5,White,Female,Reduced Price,,,385
+1254752,5,Black/African American,Male,No,,,151
+1254518,5,,Female,No,,,559
+1254325,6,Black/African American,Female,,18,49.87256582342413,322
+1254563,8,Asian,Male,No,,,703
+1254466,8,Black/African American,Female,Reduced Price,,,540
+1254077,7,White,Male,Reduced Price,7,14.885026629211795,
+1254411,5,Black/African American,Female,,11,52.3228210494605,626
+1254218,6,White,Female,No,4,71.45837704035938,330
+1254479,5,Two or More Races,Male,,,,263
+1254785,8,Hispanic/Latino,Female,,,,487
+1254638,5,White,Male,No,,,292
+1254850,7,Two or More Races,Female,Free,,,
+1254560,6,White,Female,Free,,,152
+1254669,5,Hispanic/Latino,Male,,,,590
+1254091,5,Black/African American,Male,,8,127.38747773728224,
+1254186,7,Black/African American,Male,No,20,52.75660657335326,325
+1254843,5,White,Female,,,,
+1254831,8,Black/African American,Female,Reduced Price,,,
+1254273,6,White,Female,Free,22,132.1232836416982,294
+1254094,7,,Female,No,17,10.892128257143058,
+1254832,6,White,Male,No,,,
+1254081,7,White,Female,Free,5,204.7100146708182,
+1254751,7,Hispanic/Latino,Female,No,,,203
+1254702,7,White,Male,,,,478
+1254446,5,White,Male,Reduced Price,,,164
+1254379,7,Black/African American,Male,Reduced Price,15,44.78624665403884,768
+1254365,8,White,Female,No,14,167.71029248372196,510
+1254552,7,White,Male,Reduced Price,,,526
+1254249,6,,Female,Free,17,24.506629853839037,676
+1254392,8,Black/African American,Female,Free,18,195.39042996692388,128
+1254189,6,Black/African American,Male,No,5,78.89242987698701,486
+1254505,5,White,Male,No,,,393
+1254515,5,White,Female,No,,,653
+1254119,7,Black/African American,Female,,1,94.1470177719608,
+1254511,6,White,Female,Reduced Price,,,136
+1254610,8,White,Female,Reduced Price,,,500
+1254841,8,Black/African American,Male,Reduced Price,,,
+1254549,8,,Female,No,,,122
+1254182,7,White,Male,Free,4,12.700358580735926,
+1254247,5,Black/African American,Male,Reduced Price,11,94.63237060018376,756
+1254585,6,White,Female,No,,,215
+1254801,5,Black/African American,Female,No,,,328
+1254682,6,White,Female,No,,,798
+1254326,8,Black/African American,Female,No,17,51.35892381351547,557
+1254491,5,White,Female,No,,,663
+1254709,8,White,Male,No,,,305
+1254792,5,Two or More Races,Male,No,,,398
+1254711,5,Black/African American,Female,Free,,,631
+1254829,7,White,Female,,,,
+1254820,8,White,Female,Reduced Price,,,741
+1254854,6,White,Female,Reduced Price,,,
+1254676,7,Black/African American,Male,Reduced Price,,,324
+1254684,6,White,Male,No,,,434
+1254334,6,American Indian/Alaska Native,Male,No,19,38.09039562182059,431
+1254779,8,White,Male,No,,,273
+1254633,8,White,Female,Free,,,230
+1254453,8,Black/African American,Male,Reduced Price,,,192
+1254493,6,,Female,No,,,640
+1254596,8,White,Female,Free,,,117
+1254192,8,,Male,Free,19,163.29397038646147,659
+1254143,8,Black/African American,Female,Free,24,46.94965364423857,
+1254084,6,Black/African American,Male,Reduced Price,20,67.21076179284647,
+1254626,5,White,Male,Free,,,596
+1254435,8,Black/African American,Female,Free,,,705
+1254725,5,White,Male,Free,,,411
+1254507,5,White,Male,No,,,278
+1254783,5,Black/African American,Female,No,,,303
+1254848,7,Black/African American,Male,Reduced Price,,,
+1254523,5,Asian,Male,,,,422
+1254624,5,White,Female,,,,491
+1254225,7,Black/African American,Male,No,17,163.13280229840294,608
+1254719,8,White,Male,Reduced Price,,,765
+1254738,5,Black/African American,Female,No,,,597
+1254776,8,White,Male,Reduced Price,,,668
+1254613,5,White,Female,No,,,438
+1254517,6,Two or More Races,Male,Free,,,290
+1254814,5,White,Male,Reduced Price,,,588
+1254318,7,Black/African American,Female,No,19,133.56216501561883,261
+1254604,8,Asian,Female,No,,,161
+1254661,6,Black/African American,Male,Reduced Price,,,671
+1254708,8,,Female,,,,373
+1254191,5,White,Female,No,16,4.644305424332888,166
+1254432,5,White,Male,No,,,727
+1254223,5,White,Male,Free,3,52.620432815471695,765
+1254277,6,White,Male,Free,24,77.85038588532774,708
+1254152,5,Two or More Races,Female,No,24,118.70188150357642,
+1254730,7,White,Female,No,,,450
+1254421,6,Black/African American,Female,No,,,366
+1254457,8,Black/African American,Female,Free,,,675
+1254630,8,Black/African American,Male,No,,,707
+1254246,6,White,Male,Free,20,88.95838858832977,138
+1254699,5,White,Male,Free,,,691
+1254100,8,White,Female,No,2,65.83812667559206,
+1254271,5,White,Female,Free,11,78.657482970577,455
+1254366,8,Black/African American,Female,Free,6,40.763544901364334,620
+1254694,5,Black/African American,Female,Free,,,670
+1254161,5,White,Female,Reduced Price,8,47.480364208918495,
+1254153,8,Black/African American,Male,Free,13,32.706476469626594,
+1254367,7,White,Female,No,13,280.51717532629345,738
+1254448,7,Black/African American,Female,No,,,304
+1254455,8,White,Male,Free,,,124
+1254283,7,Hispanic/Latino,Female,,18,58.76004702500756,191
+1254188,8,Black/African American,Female,Free,4,51.40970959456936,761
+1254454,6,White,Female,Reduced Price,,,364
+1254680,5,White,Female,Reduced Price,,,233
+1254352,5,Black/African American,Male,No,8,59.58168034678168,284
+1254329,8,White,Male,No,15,9.879041144149728,148
+1254826,8,Hispanic/Latino,Female,,,,
+1254811,6,White,Female,Reduced Price,,,290
+1254534,5,Black/African American,Male,Free,,,196
+1254565,8,Black/African American,Female,No,,,557
+1254335,8,Black/African American,Male,Reduced Price,8,18.34892544659303,433
+1254358,8,Two or More Races,Male,Free,1,28.898664387305733,717
